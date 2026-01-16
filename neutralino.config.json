@@ -14,12 +14,7 @@
     "enabled": true,
     "writeToLogFile": true
   },
-  "nativeAllowList": [
-    "app.*",
-    "os.*",
-    "debug.log",
-    "computer.*"
-  ],
+  "nativeAllowList": ["app.*", "os.*", "debug.log", "computer.*"],
   "modes": {
     "window": {
       "title": "PCGen Multi Test",
