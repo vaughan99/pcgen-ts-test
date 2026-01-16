@@ -16,8 +16,6 @@
     "web:preview": "vite preview"
   },
   "devDependencies": {
-    "@eslint/js": "^9.39.2",
-    "@eslint/eslintrc": "^3.3.3",
     "@internationalized/date": "^3.10.1",
     "@lucide/svelte": "^0.561.0",
     "@sveltejs/vite-plugin-svelte": "^5.0.3",
