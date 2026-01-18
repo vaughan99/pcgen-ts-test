@@ -49,40 +49,6 @@
         Save
         <Menubar.Shortcut>⌘+S</Menubar.Shortcut>
       </Menubar.Item>
-      <Menubar.Item>
-        Save As...
-        <Menubar.Shortcut>⌘+Shift+S</Menubar.Shortcut>
-      </Menubar.Item>
-      <Menubar.Item>
-        Save All
-        <Menubar.Shortcut>⌘+S</Menubar.Shortcut>
-      </Menubar.Item>
-      <Menubar.Item>Revert to Saved</Menubar.Item>
-      <Menubar.Separator />
-      <Menubar.Item>Open Party</Menubar.Item>
-      <Menubar.Item>Close Party</Menubar.Item>
-      <Menubar.Separator />
-      <Menubar.Item>Save Party</Menubar.Item>
-      <Menubar.Item>Save Party As...</Menubar.Item>
-      <Menubar.Separator />
-      <Menubar.Item>
-        Print
-        <Menubar.Shortcut>⌘+P</Menubar.Shortcut>
-      </Menubar.Item>
-      <Menubar.Item>
-        Export
-        <Menubar.Shortcut>⌘+Shift+P</Menubar.Shortcut>
-      </Menubar.Item>
-      <Menubar.Separator />
-      <Menubar.Item>
-        Manage Sources
-        <Menubar.Shortcut>⌘+M</Menubar.Shortcut>
-      </Menubar.Item>
-      <Menubar.Separator />
-      <Menubar.Item>
-        Exit
-        <Menubar.Shortcut>⌘+X</Menubar.Shortcut>
-      </Menubar.Item>
     </Menubar.Content>
   </Menubar.Menu>
   <Menubar.Menu>
