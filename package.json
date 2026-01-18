@@ -16,6 +16,7 @@
     "web:preview": "vite preview"
   },
   "devDependencies": {
+    "@dice-roller/rpg-dice-roller": "^5.5.1",
     "@internationalized/date": "^3.10.1",
     "@lucide/svelte": "^0.561.0",
     "@neutralinojs/neu": "^11.6.0",
@@ -24,6 +25,7 @@
     "@tailwindcss/typography": "^0.5.19",
     "@tailwindcss/vite": "^4.1.17",
     "@tsconfig/svelte": "^5.0.4",
+    "@types/lodash": "^4.17.23",
     "@types/node": "^22.12.0",
     "autoprefixer": "^10.4.23",
     "bits-ui": "^2.15.2",
@@ -37,7 +39,9 @@
     "eslint-plugin-prettier": "^3.4.1",
     "eslint-plugin-svelte": "^3.14.0",
     "globals": "^17.0.0",
+    "lodash": "^4.17.21",
     "mode-watcher": "^1.1.0",
+    "paneforge": "^1.0.2",
     "postcss": "^8.5.6",
     "prettier": "^3.8.0",
     "prettier-plugin-jsdoc": "^1.8.0",
