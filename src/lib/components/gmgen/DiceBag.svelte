@@ -10,7 +10,12 @@
         return diceGenerator(expr).roll();
     }
 </script>
-
+<!--
+    The idea is for the left pane have a number of single dice buttons for quick access, as well as a table of
+    dice expressions each with a roll button.
+    The right pane will contain two subpanes: the result dice roll pane (big font with dice breakdown),
+    and a scrollable subpane that has a log of previous dice rolls (with breakdowns).
+-->
 <Resizable.PaneGroup direction="horizontal" class="max-w-md rounded-lg border">
   <Resizable.Pane defaultSize={50}>
     <div class="flex h-[200px] items-center justify-center p-6">
