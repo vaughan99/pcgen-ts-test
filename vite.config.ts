@@ -82,7 +82,7 @@ export default defineConfig({
       input: {
         main: path.resolve(__dirname, 'index.html'),
         // Define other pages here
-        index2: path.resolve(__dirname, 'index2.html'),
+        gmgen: path.resolve(__dirname, 'gmgen.html'),
         // Add more pages as needed, e.g.:
         // about: resolve(__dirname, 'about.html'),
       },
