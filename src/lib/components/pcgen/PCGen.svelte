@@ -10,5 +10,5 @@
 
 <main>
   <Menu />
-  <h1>PCGen</h1>
+  <h1>PCGen 2</h1>
 </main>

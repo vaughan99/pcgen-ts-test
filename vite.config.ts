@@ -79,10 +79,10 @@ export default defineConfig({
   build: {
     outDir: neuResourcesRoot,
     rollupOptions: {
+      treeshake: true,
       input: {
         main: path.resolve(__dirname, 'index.html'),
         // Define other pages here
-        gmgen: path.resolve(__dirname, 'gmgen.html'),
         // Add more pages as needed, e.g.:
         // about: resolve(__dirname, 'about.html'),
       },

@@ -52,7 +52,7 @@
       <Resizable.Handle />
       <Resizable.Pane defaultSize={75}>
         <div class="flex h-full items-center justify-center p-6">
-          <span class="font-semibold">{logs.map((l) => `${l.date.toString()}: ${l.toString()}`).join('<hr/>')}</span>
+          <span class="font-semibold">{logs.length}</span>
         </div>
       </Resizable.Pane>
     </Resizable.PaneGroup>

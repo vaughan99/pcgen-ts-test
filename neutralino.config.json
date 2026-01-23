@@ -14,10 +14,10 @@
     "enabled": true,
     "writeToLogFile": true
   },
-  "nativeAllowList": ["app.*", "os.*", "debug.log", "computer.*"],
+  "nativeAllowList": ["app.*", "os.*", "debug.log", "computer.*", "storage.*", "window.*"],
   "modes": {
     "window": {
-      "title": "PCGen Multi Test",
+      "title": "PCGen - Loading",
       "icon": "/app/icon.png",
       "width": 1000,
       "height": 600,
@@ -36,7 +36,7 @@
     }
   },
   "cli": {
-    "binaryName": "neutralino-svelte-typescript-template",
+    "binaryName": "pcgen-ts",
     "resourcesPath": "/app/",
     "extensionsPath": "/extensions/",
     "binaryVersion": "5.5.0",
