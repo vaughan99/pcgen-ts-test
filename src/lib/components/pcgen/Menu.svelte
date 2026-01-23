@@ -139,7 +139,7 @@
       </Menubar.RadioGroup>
     </Menubar.Content>
   </Menubar.Menu>
-    <Menubar.Menu>
+  <Menubar.Menu>
     <!-- File -->
     <Menubar.Trigger>Tools</Menubar.Trigger>
     <Menubar.Content>
@@ -151,6 +151,6 @@
         GMGen
         <Menubar.Shortcut>⌘+N</Menubar.Shortcut>
       </Menubar.Item>
-</Menubar.Content>
-</Menubar.Menu>
+    </Menubar.Content>
+  </Menubar.Menu>
 </Menubar.Root>
