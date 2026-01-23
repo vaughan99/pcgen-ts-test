@@ -6,7 +6,7 @@ export function cn(...inputs: ClassValue[]) {
 }
 
 // In your main.js or other frontend script
-export const isDebugMode = typeof NL_PATH !== 'undefined';
+export const isDebugMode = typeof window.NL_PATH !== 'undefined';
 
 // eslint-disable-next-line @typescript-eslint/no-explicit-any
 export type WithoutChild<T> = T extends { child?: any } ? Omit<T, 'child'> : T;
